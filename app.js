@@ -19,3 +19,4 @@ if (isNaN(iteraciones) || iteraciones <= 0) {
         num1 = resul0;
     }
 }
+/* Aqui */
